@@ -9,7 +9,8 @@
   
   .date {float: center;
 }
-      
+  img {padding: 10px 10px 10px 10px}
+  
   body {padding: 50px 30px 50px 80px; 
         background-color:#f1f1f1; 
         font-family:futura}
