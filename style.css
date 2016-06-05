@@ -6,9 +6,4 @@
       text-align:center;
       background-color:white}
       
-  body {padding: "50px 30px 50px 80px" style="background-color:#f1f1f1; font-family:futura"}
-.main {
-  padding: 25px 35px;
-  border-bottom: 2px solid #cf8a05;
-  background: #ededed;
-}
+  body {padding: "50px 30px 50px 80px" background-color:#f1f1f1; font-family:futura"}
