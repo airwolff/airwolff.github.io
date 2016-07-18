@@ -1,14 +1,37 @@
 
-  h1 {border: 1px solid grey;
-      padding: 5px;
-      margin: 10px;
-      font-family:futura;
-      text-align:center;}
-  h2 {border-bottom: 3px solid #999;}
+h1 {
+    border: 1px solid grey;
+    padding: 5px;
+    margin: 10px;
+    font-family:futura;
+    text-align:center;
+}
+h2 {
+    border-bottom: 3px solid #999;
+}
   
-  img {margin: 0px 0px 30px 0px; width:200px;height:250px; float:right; border: 3px solid #999}
+img {
+    margin: 0px 0px 30px 0px; 
+    width:200px;
+    height:250px; 
+    float:right; 
+    border: 3px solid #999;
+    box-shadow: 1px 2px 2px #000;
+}
   
-  body {padding: 50px 30px 50px 80px; 
-        background-color:#f1f1f1; 
-        font-family:futura}
+body {
+    padding: 50px 30px 50px 80px; 
+    background-color:#f1f1f1; 
+    font-family:futura
+}
+a {
+  color: black;
+  transition: color 1s ease;
+}
+
+a:hover {
+  color: blue;
+  
+}
+
 
